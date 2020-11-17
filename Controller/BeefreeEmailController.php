@@ -22,6 +22,7 @@ use Mautic\LeadBundle\Model\ListModel;
 use MauticPlugin\MauticBeefreeBundle\Entity\BeefreeTheme;
 use MauticPlugin\MauticBeefreeBundle\Entity\BeefreeVersion;
 use MauticPlugin\MauticCitrixBundle\Helper\CitrixHelper;
+use Mautic\CoreBundle\Form\Type\BuilderSectionType;
 use Symfony\Component\Form\Form;
 use Symfony\Component\Form\FormError;
 use Symfony\Component\HttpFoundation\JsonResponse;
